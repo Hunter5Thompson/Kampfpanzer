@@ -12,5 +12,5 @@ Hunter
 ---
 
 ## Lecture List
-*KP01 Intro, Notes & Assets
-*KP02 Game Design Document(GDD)
+* KP01 Intro, Notes & Assets
+* KP02 Game Design Document(GDD)
